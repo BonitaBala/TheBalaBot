@@ -2,8 +2,8 @@
 // Run:  npm install  then  node index.js
 // For 24/7 uptime: pm2 start index.js --name my-bot
 
-process.env.DISCORD_BOT_TOKEN = process.env.DISCORD_BOT_TOKEN || "MTUyMjc1NTA1NTQyMDE4MjY5OQ.G7NUOq.JJcxS0OimXkjhFJDMnbbMy0c1jIQpYg0zof0Bg";
-process.env.DISCORD_CLIENT_ID = process.env.DISCORD_CLIENT_ID || "1522755055420182699";
+process.env.DISCORD_BOT_TOKEN = process.env.DISCORD_BOT_TOKEN || "MTUyMjc1NTA1NTQyMDE4MjY5OQ.GnTmkR.xe_C_1nUa8hHTd6T7CustYxcQo49QGedeAte5o";
+process.env.DISCORD_CLIENT_ID = process.env.DISCORD_CLIENT_ID || "1522785243977875637";
 process.env.GROQ_API_KEY      = process.env.GROQ_API_KEY      || "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";
 
 const { createBot } = require('./bot');
