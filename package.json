@@ -11,6 +11,7 @@
     "@discordjs/voice": "^0.19.2",
     "@distube/ytdl-core": "^4.16.12",
     "axios": "^1.14.0",
+    "dotenv": "^17.4.2",
     "groq-sdk": "^1.1.2",
     "libsodium-wrappers": "^0.8.2",
     "opusscript": "^0.0.8",
